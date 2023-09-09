@@ -1,0 +1,140 @@
+body{
+    
+    margin: 0;
+    padding: 0;
+    background-image: url('bg.jpg'); 
+    background-size: cover; 
+    background-repeat: no-repeat; 
+    background-attachment: fixed;
+    height: 500px;
+}
+h1, h2, ul, p {
+    margin: 0;
+    padding: 0;
+}
+
+#navbar::before {
+    content: "";
+    background-color: black;
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    top:0;
+    left:0;
+    z-index: -1;
+    opacity: 0.5;
+}
+
+#navbar {
+    display: flex;
+    align-items: center;
+    position:sticky;
+    top: 0;
+
+}
+
+.logo {
+    margin: 0px 0px;
+    /* background-color:black; */
+}
+
+.logo img {
+    width: 90px;
+    height: 60px;
+    margin: 7px 14px;
+    /* background-color: black; */
+}
+
+
+#navbar ul {
+    display: flex;
+}
+
+#navbar ul li {
+    list-style: none;
+    font-size: 1.2rem;
+}
+
+#navbar ul li a {
+    color: rgb(247, 246, 245);
+    list-style: none;
+    display: block;
+    font-size: 1.5rem;
+    padding: 3px 20px;
+    border-radius: 70px;
+    text-decoration: none;
+}
+
+#navbar ul li a:hover{
+    color: rgb(3, 3, 133);
+    background-color: white;
+}
+header {
+    /* background-color: #333; */
+    color: #c9c5e8;
+    /* text-shadow:0.5px 2px white; */
+    padding: 20px;
+    /* text-decoration: line-through; */
+    text-align: center;
+    font-size: large;
+}
+
+main {
+    max-width: 800px;
+    margin: 50px auto;
+    padding: 20px;
+    color: white;
+
+    /* font: 15px; */
+}
+
+.contact-info {
+    margin-bottom: 30px;
+}
+
+.contact-info h2 {
+    font-size: 30px;
+    margin-bottom: 10px;
+}
+
+.contact-info ul {
+    list-style-type: none;
+    padding-left: 0;
+}
+
+.contact-info li {
+    margin-bottom: 10px;
+}
+p{
+    font-size: 20px;
+}
+
+.faq {
+    margin-bottom: 30px;
+}
+
+.faq h2 {
+    font-size: 30px;
+    margin-bottom: 10px;
+}
+
+.faq ul {
+    list-style-type: none;
+    padding-left: 0;
+}
+
+.faq li {
+    margin-bottom: 20px;
+}
+
+
+footer {
+    background: rgb(8, 5, 96);
+    color: white;
+    padding: 9px 20px;
+    position: relative;
+    margin-top: 300px;
+    margin-bottom: 0px;
+    text-align: center;
+
+}
