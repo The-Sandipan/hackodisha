@@ -11,7 +11,7 @@ https://github.com/Its-Shreya
 https://github.com/The-Sandipan
 
 3rd Member's Github:
-[https://github.com/Gourabdas2001](https://github.com/Gourabdas2001)
+https://github.com/Gourabdas2001
 
 
 We are creating a platform that helps the patients to check their MRI scans and then diagonise them with the help of Machine Learning and AI.
@@ -34,8 +34,8 @@ Contact Us:
 
 
 
-
-
+################################################################################# THE MRI MODEL: Input & Output ##################################################################################################
+                                                                       
 MRI Model:
 ![mri-header](https://github.com/The-Sandipan/hackodisha_ByteCoders/assets/101037180/1e7072b3-583b-455d-908d-5d6eeb74eeaf)
 
