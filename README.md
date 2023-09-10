@@ -24,11 +24,11 @@ Our Homepage:
 ![WhatsApp Image 2023-09-10 at 18 01 24](https://github.com/The-Sandipan/hackodisha_ByteCoders/assets/101037180/c59a19a8-6336-4f0b-9714-ed0353398325)
 
 Support Page:
-![WhatsApp Image 2023-09-10 at 18 01 25](https://github.com/The-Sandipan/hackodisha_ByteCoders/assets/101037180/585bd772-8b5b-4e57-8654-1b0398910bb0)
+![WhatsApp Image 2023-09-10 at 18 01 25](https://github.com/The-Sandipan/hackodisha_ByteCoders/assets/101037180/c8e9884f-5f24-4655-afd3-b32d75c49d48)
 
 
 Contact Us:
-![WhatsApp Image 2023-09-10 at 18 01 25](https://github.com/The-Sandipan/hackodisha_ByteCoders/assets/101037180/c8e9884f-5f24-4655-afd3-b32d75c49d48)
+![WhatsApp Image 2023-09-10 at 18 01 25](https://github.com/The-Sandipan/hackodisha_ByteCoders/assets/101037180/585bd772-8b5b-4e57-8654-1b0398910bb0)
 
 
 
