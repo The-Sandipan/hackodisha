@@ -34,7 +34,6 @@ Contact Us:
 
 
 
-################################################################################# THE MRI MODEL: Input & Output ##################################################################################################
                                                                        
 MRI Model:
 ![mri-header](https://github.com/The-Sandipan/hackodisha_ByteCoders/assets/101037180/1e7072b3-583b-455d-908d-5d6eeb74eeaf)
