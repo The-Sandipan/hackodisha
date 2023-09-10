@@ -5,7 +5,7 @@ Team Name:
 Byte_Coders
 
 Team Leader's Github:
-(https://github.com/Its-Shreya)
+https://github.com/Its-Shreya
 
 2nd Member's Github:
 https://github.com/The-Sandipan
