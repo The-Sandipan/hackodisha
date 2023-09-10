@@ -37,13 +37,13 @@ Contact Us:
 #
 
                                                                        
-MRI Model:
+MRI Model Input:
 ![mri-header](https://github.com/The-Sandipan/hackodisha_ByteCoders/assets/101037180/1e7072b3-583b-455d-908d-5d6eeb74eeaf)
 
 
 
 
-Model Prediction output:
+Model Prediction Output:
 ![WhatsApp Image 2023-09-10 at 18 04 13](https://github.com/The-Sandipan/hackodisha_ByteCoders/assets/101037180/f70fb5f8-dc5d-4fea-9bac-d58a0f4f16d8)
 
 
